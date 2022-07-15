@@ -1,0 +1,30 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O Bash é um terminal para facilitar o uso do Git;
+
+Criando Repositório no GitHub:
+
+1) novo repositório
+- Nomear
+- Colocar descrição
+. Deixar Público
+. Add README
+
+Criar repositório.
+
+2) Fazer alterações do README
+#Título do README
+##Subtítulo do README
+
+Exemplo:
+[sintaxe básica Markdown] (colar o endereço do link)
+
+Salvar as alterações (Commitar)
+
+3) Copiar o código https (do seu repositório)
+
+4) Abrir o GitBash Here na pasta já criada
+
+5) Dar os comandos:
+git clone <colar o endereço https:>
+(irá clinar seu repositório para sua máquina)
